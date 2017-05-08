@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GCMtest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">註冊</string>
+    <string name="title_activity_home">首頁</string>
+    <string name="title_activity_forget_password">忘記密碼</string>
+    <string name="title_activity_first_load">FirstLoad</string>
+    <string name="title_activity_get_data">顯示資料</string>
+    <string name="title_activity_root_home">RootHome</string>
+    <string name="title_activity_show_dbdata">ShowDBdata</string>
+    <string name="title_activity_senssor_records">SenssorRecords</string>
+    <string name="title_activity_forgot">Forgot</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_password_modify">PasswordModify</string>
+
+    <string name="title_activity_conttrol_led">LED</string>
+    <string name="title_activity_control_raspi_buzzer">Buzzer</string>
+    <string name="title_activity_control_system_state">SystemState</string>
+    <string name="title_activity_play_music">PlayMusic</string>
+</resources>

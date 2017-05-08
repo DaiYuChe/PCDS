@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "125268541152",
+    "project_id": "test-143923"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125268541152:android:438bf97635309610",
+        "android_client_info": {
+          "package_name": "com.example.user01.gcm_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFtE3BWWJWzsCJQqZPiloiXZ07I4qTzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125268541152:android:9c900ca066d048f3",
+        "android_client_info": {
+          "package_name": "com.example.user01.gcmtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFtE3BWWJWzsCJQqZPiloiXZ07I4qTzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
